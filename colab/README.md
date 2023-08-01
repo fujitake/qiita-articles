@@ -1,1 +1,0 @@
-# colab: Google Colabファイル
